@@ -1,21 +1,36 @@
 # decentralized-lost-found
 
-# Decentralized Lost & Found
+#  Decentralized Lost & Found (dApp)
 
-A simple dApp idea for public event safety. Users can report or search for lost items using a transparent and tamper-proof on-chain record.
+## Submission for WCHL25 – Golden Hour (2PM–3PM)
 
-## Track:
-Open Track
+### Track: Open Track
 
-## What It Does:
-- Lets users submit lost/found item details
-- Anyone can search listings
-- Data will be stored using ICP canisters (future scope)
+### Overview:
+This project is a blockchain-powered Lost & Found system, designed to help people quickly report and recover lost items at large public events (concerts, festivals, schools, etc).
 
-## Tech Stack:
-- Frontend: HTML, JavaScript
-- Backend: Internet Computer canister (to be implemented)
-- Hosted via GitHub Pages for now
+### Problem:
+At big events, people often lose items. Traditional Lost & Found booths are inefficient, unorganized, and sometimes dishonest.
 
-## Status:
-This is an MVP submission for WCHL25 Golden Hour (2PM–3PM).
+###Solution:
+A decentralized app (dApp) that lets users:
+- 📝 Submit details of lost or found items
+- 🔍 Search the global list of submitted items
+- 🔐 Ensure entries are tamper-proof via blockchain
+
+### Planned Tech Stack:
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Internet Computer (ICP) Canister for data storage
+- **Hosting**: GitHub Pages (MVP)
+
+### Features (MVP):
+- A simple form to submit lost/found item details
+- A list view of all entries
+- Placeholder logic for ICP integration
+
+### Goal:
+Build a transparent, accessible, on-chain lost & found system that scales with events and provides real social impact.
+
+### Status:
+Submitted during Golden Hour (2–3 PM) with MVP. Full version will be built post-submission.
+
